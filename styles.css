@@ -1,14 +1,128 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
+    font-family: "Inter", sans-serif;
+    /*font-family: "Rubik", sans-serif;*/
+    margin: 50px 80px;
 }
 
-header {
-    text-align: center;
-    margin-bottom: 20px;
+
+/* header section */
+header h1 {
+    display: inline;
+    font-size: 45px;
+    font-weight: bold;
+}
+header .jobtitle {
+    display: block;
+    font-family: "Rubik", sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 5px 0px;
+}
+header .info {
+    display: flex;
+    text-indent: 25px;
+    margin-left: -25px;
+}
+header .info a{
+    text-decoration: none;
+    color: black;
+    transition: background 0.5s ease;
+}
+header .info a:hover{
+    background: bisque;      
 }
 
-h2 {
-    color: #333;
+/* end of head section */
+
+main {
+    font-family: "Rubik", sans-serif;
 }
+
+/* summary section */
+
+/* end of summary section */
+
+
+/* experience section */
+.experience {
+    margin: auto;
+}
+
+.section-title {
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.sub-item{
+    display: flex;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 5px 0px black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+.languages .item {
+    max-width: 80%;
+}
+
+.comment {
+    color: gray;
+    margin-left: 10px;
+}
+
+.left {
+    max-width: 100%;
+}
+
+.role {
+    font-size: 18px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.company {
+    display: inline;
+    color: #1a73e8;
+    font-size: 18px;
+}
+
+.university {
+    display: inline;
+    color: #1a73e8;
+    font-size: 14px;
+}
+
+.details {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.details li {
+    margin-bottom: 8px;
+}
+
+.right {
+    text-align: right;
+    white-space: nowrap;
+}
+
+.location {
+    margin: 0;
+    font-size: 16px;
+}
+
+.date {
+    margin: 0;
+    font-size: 16px;
+}
+
+/* end of experience section */
