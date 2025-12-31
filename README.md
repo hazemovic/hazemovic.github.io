@@ -20,10 +20,10 @@ This repository contains my **Curriculum Vitae (CV)** with information about my 
 ---
 
 ## 🛠 Skills
-- **Programming:** Java, JavaScript  
+- **Programming:** Java, JavaScript, C#, Python  
 - **Backend:** REST APIs, Strapi CMS  
-- **Databases:** SQL  
-- **Tools:** Git, GitHub  
+- **Databases:** SQL, NOSQL  
+- **Tools:** Git, GitHub, Docker  
 
 ---
 
@@ -33,8 +33,8 @@ This repository contains my **Curriculum Vitae (CV)** with information about my 
 ---
 
 ## 📬 Contact
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/hazemovic 
+- LinkedIn: https://www.linkedin.com/in/hazem-hetaba-34bb1a1b9/
 
 ---
 
